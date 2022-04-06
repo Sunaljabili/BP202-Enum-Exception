@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\EnumApp\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\User\Desktop\EnumApp\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\User\Desktop\EnumApp\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\User\Desktop\EnumApp\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EnumApp\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EnumApp\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\User\Desktop\EnumApp\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EnumApp\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\User\Desktop\EnumApp\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Users\User\Desktop\EnumApp\Models\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\User\Desktop\EnumApp\Models\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\User\Desktop\EnumApp\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EnumApp\Models\obj\Debug\netcoreapp3.1\Models.csproj.CopyComplete
